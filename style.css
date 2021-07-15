@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-image: url('https://ruggedtooling.com/wp-content/uploads/2018/08/hero-frontpage.jpg');
+}
+
+.container {
+  border: 5px solid #ddd;
+  box-shadow: 0px 0px 10px;
+  padding: 15px;
+  background-image: url('https://ruggedtooling.com/wp-content/uploads/2018/08/hero-frontpage.jpg');
+  color: #ff00ff;
+}
+
+.botao-calcular {
+  text-align: center;
+  font-size: 18px;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #1b2845;
+  color: white;
+  cursor: pointer;
+}
